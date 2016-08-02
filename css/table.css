@@ -4,7 +4,7 @@ table {}
 /* tr.today td { border-top: 1px solid #BBBBCC; border-top-left-radius: 5px; border-top-right-radius: 5px } */
 tr.today td.day { text-decoration: underline }
 td { background: #E0E0E0; padding: 0px 10px }
-td.day { text-align: center }
+td.day { text-align: center; width: 16%; }
 td.workday { background: #CCFF99 }
 td.weekend { background: #FFCC99 }
 td.times { width: 400px; padding: 0px 1px }
